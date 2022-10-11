@@ -1,0 +1,90 @@
+
+[
+  {
+    "path": "M -42,636 A 37.073 37.073 0 0 0 26,658",
+    "text": "Tap to see how the first match affects the group",
+    "team": "EDG",
+    "lw": 21,
+    "textOffset": [
+      -61,
+      597
+    ]
+  },
+  {
+    "path": "M 286,220 A 123.355 123.355 0 0 1 105,221",
+    "text": "RGE can lose all three games and still advance without a tiebreaker",
+    "team": "RGE",
+    "lw": 24,
+    "textOffset": [
+    241, 185
+    ]
+  },
+  {
+    "path": "M 261,-69 A 62.889 62.889 0 0 1 182,3.999999523162842",
+    "text": "C9 needs to go 3-0  and win a tiebreaker to advance",
+    "team": "C9",
+    "lw": 24,
+    "textOffset": [
+    166,
+    -100
+    ]
+  },
+  {
+    "path": "M -78,28 A 46.193 46.193 0 0 0 -9,76",
+    "text": "GAM doesn't need to beat DK to advance if the stars align",
+    "team": "GAM",
+    "lw": 20,
+    "textOffset": [
+      -108,
+      -19
+    ]
+  },
+  {
+    "path": "M 210,247 A 24.767 24.767 0 0 1 168,222",
+    "text": "There is only a single scenario in which JDG is eliminated without a tiebreaker",
+    "team": "JDG",
+    "lw": 24,
+    "textOffset": [
+    218, 198
+    ]
+  },
+  {
+    "path": "M 261,-64 A 62.002 62.002 0 0 1 182,4",
+    "text": "Even with three wins, DFM can still be eliminated",
+    "team": "DFM",
+    "lw": 24,
+    "textOffset": [
+    150,
+    -100
+    ]
+  },
+  {
+    "path": "-1",
+    "text": "A three way tie leaves group A wide open",
+    "team": "FNC",
+    "lw": 21,
+    "textOffset": [
+      -117,
+      216
+    ]
+  },
+  {
+    "path": "M 63,216 A 47.621 47.621 0 0 1 75,172",
+    "text": "Getting a win against GEN or CFO advances RNG",
+    "team": "RNG",
+    "lw": 24,
+    "textOffset": [
+    -23, 
+    235
+    ]
+  },
+  {
+    "path": "M 257,-59 A 59.429 59.429 0 0 1 183,1",
+    "text": "100 can win all three games and still get knocked out",
+    "team": "100",
+    "lw": 24,
+    "textOffset": [
+    184, -107
+    ]
+  }
+]
